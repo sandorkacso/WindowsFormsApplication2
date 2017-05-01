@@ -1,4 +1,5 @@
-﻿using System;
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,6 +17,7 @@ namespace WindowsFormsApplication2
         {
             InitializeComponent();
             throw new Exception("Sandor elkurta!");
+            // Comment.
         }
     }
 }
